@@ -10,3 +10,11 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+## Done using styled-components & framer-motion
+
+[Official websites]
+
+(https://styled-components.com/)
+
+(https://www.framer.com/motion/)
