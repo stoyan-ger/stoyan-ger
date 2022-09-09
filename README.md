@@ -1,18 +1,1 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-## Done using styled-components & framer-motion
-
-https://styled-components.com/
-
-https://www.framer.com/motion/
+![SamuraiJack_Image1 0](https://user-images.githubusercontent.com/23193521/189346166-ac3ed5a2-7a74-42cb-a566-589f69ee12f2.jpg)
